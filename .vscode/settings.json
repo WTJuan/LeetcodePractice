@@ -1,9 +1,0 @@
-{
-    "files.associations": {
-        "__config": "cpp",
-        "__nullptr": "cpp",
-        "map": "cpp",
-        "iosfwd": "cpp",
-        "vector": "cpp"
-    }
-}
